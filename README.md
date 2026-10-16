@@ -5,41 +5,7 @@
 ![1U CubeSat 4-CMG Pyramid Architecture and Performance](docs/images/cmg_pyramid_and_performance_charts.png)
 
 ![CubeSat Scaling Laws, Emergency Sun-Pointing & Weather Balloon Stabilization](docs/images/cmg_scaling_emergency_and_balloon_charts.png)
-<!--
-## Repository Structure
 
-```text
-1u-cubesat-4cmg-adcs/
-├── README.md                                      # Main GitHub documentation & step-by-step build tutorial
-├── LICENSE                                        # MIT Open Source License
-├── requirements.txt                               # Cross-platform Python dependencies (Linux, Windows, macOS)
-├── docs/
-│   └── images/
-│       ├── cmg_pyramid_and_performance_charts.png # 4-CMG pyramid geometry, 3H envelope, 90-deg slew & trade-offs
-│       └── cmg_scaling_emergency_and_balloon_charts.png # 1U-12U scaling, emergency sun lock & HAB yaw control
-├── hardware/
-│   └── 1U_4CMG_Bill_of_Materials.csv              # Exportable BOM spreadsheet with suppliers, costs & specs
-├── src/
-│   ├── cmg_test_suite.py                          # Cross-platform open-source HIL tester & 3-axis GSR simulator
-│   └── generate_charts.py                         # Python script to regenerate all engineering plots
-└── firmware/
-    └── emergency_sun_pointing.cpp                 # C++17 flight software for B-Dot detumble & 6-diode sun pointing
-```
-
-## Quick Start: How to Push This Package to Your GitHub Repository
-
-Unzip `1U_CubeSat_4CMG_ADCS_GitHub_Repo.zip` on your computer (Linux, Windows, or macOS) and run:
-
-```bash
-cd 1u-cubesat-4cmg-adcs
-git init
-git branch -M main
-git add .
-git commit -m "Add 1U CubeSat 4-CMG Pyramid ADCS documentation, BOM, charts, and flight software"
-git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>.git
-git push -u origin main
-```
--->
 
 # 1U CubeSat 4-Control Moment Gyroscope (4-SGCMG) Pyramid ADCS: Complete Engineering, Build, Materials & Flight Software Documentation
 
