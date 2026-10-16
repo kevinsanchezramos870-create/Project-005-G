@@ -5,7 +5,7 @@
 ![1U CubeSat 4-CMG Pyramid Architecture and Performance](docs/images/cmg_pyramid_and_performance_charts.png)
 
 ![CubeSat Scaling Laws, Emergency Sun-Pointing & Weather Balloon Stabilization](docs/images/cmg_scaling_emergency_and_balloon_charts.png)
-
+<!--
 ## Repository Structure
 
 ```text
@@ -39,7 +39,7 @@ git commit -m "Add 1U CubeSat 4-CMG Pyramid ADCS documentation, BOM, charts, and
 git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>.git
 git push -u origin main
 ```
-
+-->
 
 # 1U CubeSat 4-Control Moment Gyroscope (4-SGCMG) Pyramid ADCS: Complete Engineering, Build, Materials & Flight Software Documentation
 
